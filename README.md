@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is a place I hold my code outside of work, for fun and for study
+This is my backyard where I plant and grow yammy (hopefully) things ~:)
 
 <!--
 **zzstephen/zzstephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
