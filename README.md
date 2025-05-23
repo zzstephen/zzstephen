@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is my backyard where I plant and grow yammy (hopefully) things ~:)
+This is my backyard where I plant and grow yummy (hopefully) things ~:)
 
 <!--
 **zzstephen/zzstephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
